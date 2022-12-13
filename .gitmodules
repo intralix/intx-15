@@ -1,0 +1,4 @@
+[submodule "intralix/odoo-addons"]
+	path = intralix/odoo-addons
+	url = git@github.com:intralix/odoo-addons.git
+	branch = main
